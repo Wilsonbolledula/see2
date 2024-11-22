@@ -1,3 +1,2 @@
 print("hello")
-print("hello1")
-print("hello2")
+print("Hello from both dev1 and dev2")
